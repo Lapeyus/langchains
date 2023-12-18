@@ -1,4 +1,4 @@
-# langchains
+# Langchains
 
 A collection of apps that use Generative AI tools through Langchain and the Streamlit frameworks.
 
@@ -23,4 +23,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 * [Streamlit](https://streamlit.io/)
 * [Google Cloud](https://cloud.google.com/)
-* [Gemini-Pro](https://huggingface.co/EleutherAI/       
+* [Langchain](https://github.com/hwchase17/langchain)
+ 
