@@ -2,7 +2,7 @@ beautifulsoup4==4.12.2
 chromadb==0.4.20
 langchain==0.0.350
 python-dotenv==1.0.0
-google-api-python-client
-google-auth-httplib2 
-google-auth-oauthlib
-PyPDF2
+google-api-python-client==2.111.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+PyPDF2==3.0.1
